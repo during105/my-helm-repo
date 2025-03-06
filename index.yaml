@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mybarobar:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-06T11:48:24.42564229+09:00"
+    description: A Helm chart for Kubernetes
+    digest: fe3c281071fe2aac3b0f2cb519c20414d61797b3a9b0fa4ed68674b50ddb5560
+    name: mybarobar
+    type: application
+    urls:
+    - mybarobar-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-06T11:48:24.425034951+09:00"
